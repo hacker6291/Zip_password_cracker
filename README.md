@@ -23,7 +23,10 @@
 * `pkg install git`
 * `git clone https://github.com/hacker6291/Zip_password_cracker.git `
 * `ls`
-* `cd Text_to_hash`
+* `cd Zip_password_cracker `
+
+* `bash start.sh `
+
 
 
 ## INSTALLATION [Kali Linux] :
@@ -35,12 +38,8 @@
 * `ls`
 * `cd Zip_password_cracker `
 
+* `bash start.sh `
 
-## Uses :
-
-* `cd Zip_password_cracker`
-* `ls`
-* `python3 converter.py`
 
 
 ## Screenshot:
