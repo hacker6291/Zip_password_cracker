@@ -21,7 +21,7 @@
 * `pkg install python`
 * `pkg install python3`
 * `pkg install git`
-* `git clone https://github.com/hacker6291/Text_to_hash.git `
+* `git clone https://github.com/hacker6291/Zip_password_cracker.git `
 * `ls`
 * `cd Text_to_hash`
 
@@ -31,7 +31,7 @@
 * `sudo apt install python`
 * `sudo apt install python3`
 * `sudo apt install git`
-* `git clone https://github.com/hacker6291/Text_to_hash.git`
+* `git clone https://github.com/hacker6291/Zip_password_cracker.git`
 * `ls`
 * `cd Text_to_hash `
 
