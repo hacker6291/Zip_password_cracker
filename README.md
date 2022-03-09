@@ -33,12 +33,12 @@
 * `sudo apt install git`
 * `git clone https://github.com/hacker6291/Zip_password_cracker.git`
 * `ls`
-* `cd Text_to_hash `
+* `cd Zip_password_cracker `
 
 
 ## Uses :
 
-* `cd Text_to_hash`
+* `cd Zip_password_cracker`
 * `ls`
 * `python3 converter.py`
 
